@@ -17,7 +17,7 @@
 ## 📫 How to Reach Me
 - **Email**: 1155252147@link.cuhk.edu.hk
 Feel free to connect with me or check out my work!
-
+![Delson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delson-1999&show_icons=true&theme=radical)
 <!--
 **Delson-1999/Delson-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
