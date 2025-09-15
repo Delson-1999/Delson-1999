@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="banner" width="100%">
+<img src="./banner.jpeg" alt="banner" width="100%">
 # 👋 Hi, here is Delson
 
 🎓 I am a **1st-year PhD student** at the **Clover Lab**, **The Chinese University of Hong Kong (CUHK)**.
