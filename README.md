@@ -1,7 +1,7 @@
 <img src="./banner.jpeg" alt="banner" style="height: 200px; object-fit: cover; width: 100%;">
 # 👋 Hi, here is Delson
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer!&center=true&size=20)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Channel!;Let+us+never+forget+that+the+beauty+kindnes+and+wisdom+make+us+human.&center=true&size=20)
 
 🎓 I am a **1st-year PhD student** at the **Clover Lab**, **The Chinese University of Hong Kong (CUHK)**.
 
